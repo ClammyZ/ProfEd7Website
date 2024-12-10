@@ -1,9 +1,9 @@
 ---
-title: "About Me"
+title: "Curriculumn Vitae"
 about:
   id: me
   template: broadside
-  image: img/profile.png
+  image: img/cv.jpg
 ---
 
 :::{#me}
