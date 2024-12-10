@@ -6,14 +6,23 @@ about:
   image: img/cv.jpg
 ---
 
-:::{#me}
+:::{#us}
 
-## Goals
+## About
+<p> Welcome to our WEBSITE!! This website is presented to Professor Orville D. Hombrebueno in partial fulfillment of the course PROFED 7, A.Y. 2024-2025 </p>
 
-## Education
+## Members
+<p> Christine Mae Hernandez </p>
+<p> Emmanuel Silao </p>
+<p> Frederick Quibranto </p>
+<p> Gracely Bade Bumilao </p>
+<p> Levilyn Legaspi </p>
+<p> Rizza Jane Sebastian </p>
 
-## Experience
+## School
+NUEVA VIZCAYA STATE UNIVERSITY
 
 :::
+----
 
-Thanks for checking out my web site!
+Thanks for checking out our    web site!

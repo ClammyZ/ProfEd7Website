@@ -9,6 +9,11 @@ website:
       - href: index.qmd
         text: Home
       - projects.qmd
+      - ESilao.qmd
+      - FQuibranto.qmd
+      - GBBumilao.qmd
+      - LLegaspi.qmd
+      - RJSebastian.qmd
     tools:
       - icon: twitter
         href: https://twitter.com/
