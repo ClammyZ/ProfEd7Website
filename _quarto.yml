@@ -8,7 +8,7 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - projects.qmd
+      - CMHernandez.qmd
       - ESilao.qmd
       - FQuibranto.qmd
       - GBBumilao.qmd
