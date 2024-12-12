@@ -1,42 +1,67 @@
 ---
 title: "C.M. Hernandez"
+editor: 
+  markdown: 
+    wrap: 72
 ---
 
 <p><b>Curriculum Vitae</b></p>
+
+<hr>
+
 </center>
+
+![](img/CM.jpg){fig-align="center" width="2in"}
+
 <hr>
 
 <center>
+
 <p>Hernandez Christine Mae M..</p>
+
 <p>Purok Laud, Poblacion, Villaverde, Nueva Vizcaya</p>
+
 <p>+63 9261429498</p>
-<p>tala04102020@gmail.com </p>
+
+<p>tala04102020\@gmail.com</p>
+
 </center>
+
 <hr>
 
 <p><b> Personal Information</b></p>
-<p>Sex: Female </p>
-<p>Age: 20 </p>
-<p>Date of Birth: October 27, 2004 </p>
-<p>Place of Birth: Bayombong Nueva Vizcaya </p>
-<p>Civil Status: Single </p>
-<p>Citizenship: Filipino </p>
-<p>Religion:Roman Catholic </p>
-<p>Weight:68 </p>
-<p>Height:4'9" </p>
-<p>Father's Name: Christopher B. Hernandez  </p>
-<p>Mother's Name: Precy M. Hernandez </p>
+
+<p>Sex: Female</p>
+
+<p>Age: 20</p>
+
+<p>Date of Birth: October 27, 2004</p>
+
+<p>Place of Birth: Bayombong Nueva Vizcaya</p>
+
+<p>Civil Status: Single</p>
+
+<p>Citizenship: Filipino</p>
+
+<p>Religion:Roman Catholic</p>
+
+<p>Weight:68</p>
+
+<p>Height:4'9"</p>
+
+<p>Father's Name: Christopher B. Hernandez</p>
+
+<p>Mother's Name: Precy M. Hernandez</p>
+
 <hr>
 
 <p><b>Educational Background</b></p>
 
-<p><b>Thirtiary: </b>Nueva Viczaya State University
-Don Mariano Perez Bayombong Nueva Vizcaya ----
-2022-present </p>
-<p><b>Secondary:</b>Our Lady of Fatima School of Villaverde
-Ibung, Villaverde, Nueva Vizcaya ----
-2022 </p>
+<p><b>Thirtiary: </b>Nueva Viczaya State University Don Mariano Perez
+Bayombong Nueva Vizcaya --- 2022-present</p>
 
-<p><b>Primary:</b> Turod Elemetary School
-Poblacion, Villaverde, Nueva Vizcaya ----
-2016 </p>
+<p><b>Secondary:</b>Our Lady of Fatima School of Villaverde Ibung,
+Villaverde, Nueva Vizcaya --- 2022</p>
+
+<p><b>Primary:</b> Turod Elemetary School Poblacion, Villaverde, Nueva
+Vizcaya --- 2016</p>

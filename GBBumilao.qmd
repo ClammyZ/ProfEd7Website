@@ -1,0 +1,64 @@
+---
+title: "G.B. Bumilao"
+editor: 
+  markdown: 
+    wrap: 72
+---
+
+<p><b>Curriculum Vitae</b></p>
+
+<hr>
+
+![](img/GB.jpg){fig-align="center" width="2in"}
+
+</center>
+
+<hr>
+
+<center>
+
+<p>Bumilao, Gracely B. </p>
+
+<p>Purok 2 Cabua-an, Maddela, Quirino</p>
+
+<p>+63 9306745564</p>
+
+<p>din07bumilao\@gmail.com</p>
+
+</center>
+
+<hr>
+
+<p><b> Personal Information</b></p>
+
+<p>Sex: Femanle</p>
+
+<p>Age: 23</p>
+
+<p>Date of Birth: June 30, 2001</p>
+
+<p>Place of Birth: Bayombong, Nueva Vizcaya</p>
+
+<p>Civil Status: Single</p>
+
+<p>Citizenship: Filipino</p>
+
+<p>Religion: Evangelical</p>
+
+<p>Weight: 48</p>
+
+<p>Height: 155 cm</p>
+
+<p>Father's Name: Danny G. Bumilao</p>
+
+<p>Mother's Name: Emy Grace B. Bumilao</p>
+
+<hr>
+
+<p><b>Educational Background</b></p>
+
+<p><b>Thirtiary: </b>Nueva Viscaya State University --- 2019-present</p>
+
+<p><b>Secondary:</b>Maddela Comprehensive High Schoo --- SY 2013- 2019</p>
+
+<p><b>Primary:</b>Kaboa-an Elementary School --- SY 2006 - 2013</p>

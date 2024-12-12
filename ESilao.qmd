@@ -1,37 +1,68 @@
 ---
 title: "E. Silao"
+editor: 
+  markdown: 
+    wrap: 72
 ---
 
 <p><b>Curriculum Vitae</b></p>
+
+<hr>
+
 </center>
+
+![](img/ES.jpg){fig-align="center" width="2in"}
+
 <hr>
 
 <center>
+
 <p>Silao, Emmanuel R.</p>
+
 <p>District IV, Bayombong, Nueva Vizcaya</p>
+
 <p>+63 9278045225</p>
-<p>ersilao_2019@NVSU.edu.ph </p>
+
+<p>ersilao_2019\@NVSU.edu.ph</p>
+
 </center>
+
 <hr>
 
 <p><b> Personal Information</b></p>
-<p>Sex: Male </p>
+
+<p>Sex: Male</p>
+
 <p>Age: 26</p>
+
 <p>Date of Birth: October 28, 1998</p>
-<p>Place of Birth:  Bayombong, Nueva Vizcaya</p>
-<p>Civil Status:  Single </p>
+
+<p>Place of Birth: Bayombong, Nueva Vizcaya</p>
+
+<p>Civil Status: Single</p>
+
 <p>Citizenship: Filipino</p>
-<p>Religion: Church of Christ </p>
+
+<p>Religion: Evangelical (Church of Christ)</p>
+
 <p>Weight: 53</p>
+
 <p>Height: 5'3"</p>
-<p>Father's Name: </p>
-<p>Mother's Name: </p>
+
+<p>Father's Name:</p>
+
+<p>Mother's Name:</p>
+
 <hr>
 
 <p><b>Educational Background</b></p>
 
-<p><b>Thirtiary: </b> Nueva Vizcaya State University Don Mariano Perez Bayombong Nueva Vizcaya ---- 2019-present</p>
-<p><b>Thirtiary: </b> University of the Philippines Baguio Campus, Gov. Pack Rd, Baguio, Benguet ----2015-2016 </p>
-<p><b>Secondary:</b> Nueva Vizcaya General Comprehensive High School, Dumlao Boulevard, Bayombong, Nueva Vizcaya ---- 2012-2015</p>
-<p><b>Primary:</b> Sta. Rosa Elementary School, Malvar St., Sta. Rosa, Bayombong, Nueva Vizcaya ---- 2009-2012</p>
-<p><b>Primary:</b> Bayombong West Elementary School, San Nicolas, Bayombong, Nueva Vizcaya ---- 2007-2009</p>
+<p><b>Thirtiary: </b> Nueva Vizcaya State University Don Mariano Perez Bayombong Nueva Vizcaya --- 2019-present</p>
+
+<p><b>Thirtiary: </b> University of the Philippines Baguio Campus, Gov. Pack Rd, Baguio, Benguet ---2015-2016</p>
+
+<p><b>Secondary:</b> Nueva Vizcaya General Comprehensive High School, Dumlao Boulevard, Bayombong, Nueva Vizcaya --- 2012-2015</p>
+
+<p><b>Primary:</b> Sta. Rosa Elementary School, Malvar St., Sta. Rosa, Bayombong, Nueva Vizcaya --- 2009-2012</p>
+
+<p><b>Primary:</b> Bayombong West Elementary School, San Nicolas, Bayombong, Nueva Vizcaya --- 2007-2009</p>

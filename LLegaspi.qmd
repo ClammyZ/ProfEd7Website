@@ -1,0 +1,64 @@
+---
+title: "L. Legaspi"
+editor: 
+  markdown: 
+    wrap: 72
+---
+
+<p><b>Curriculum Vitae</b></p>
+
+<hr>
+
+![](img/LL.jpg){fig-align="center" width="2in" height="2in"}
+
+</center>
+
+<hr>
+
+<center>
+
+<p>Legaspi, Levilyn L.</p>
+
+<p>Canabay, Dupax Del Sur, Nueva Vizcaya</p>
+
+<p>+63 9386118579</p>
+
+<p>legaspilevilyn93\@gmail.com</p>
+
+</center>
+
+<hr>
+
+<p><b> Personal Information</b></p>
+
+<p>Sex: Female</p>
+
+<p>Age: 21</p>
+
+<p>Date of Birth: March 01, 2003</p>
+
+<p>Place of Birth: Canabay, Dupax Del Sur, Nueva Vizcaya</p>
+
+<p>Civil Status: Single</p>
+
+<p>Citizenship: Filipino</p>
+
+<p>Religion: Penticost</p>
+
+<p>Weight: 49</p>
+
+<p>Height: 5'1"</p>
+
+<p>Father's Name: Robert M. Dulnuan</p>
+
+<p>Mother's Name: Melba C. Lencio</p>
+
+<hr>
+
+<p><b>Educational Background</b></p>
+
+<p><b>Thirtiary: </b>Nueva Vizcaya State University, Bayombong Campus, Bachelor of Science in Mathematics --- 2021-present</p>
+
+<p><b>Secondary:</b> Dupax Del Sur National High School, majored in Accountancy and Business Management (ABM) --- 2014-2021</p>
+
+<p><b>Primary:</b>Canabay Elementary School --- 2008-2014</p>

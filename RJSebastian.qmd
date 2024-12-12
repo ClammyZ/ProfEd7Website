@@ -1,0 +1,66 @@
+---
+title: "R.J. Sebastian"
+editor: 
+  markdown: 
+    wrap: 72
+---
+
+<p>
+
+<b>Curriculum Vitae</b>
+
+<hr>
+
+![](img/RJ.jpg){fig-align="center" width="2in"}
+
+</center>
+
+<hr>
+
+<center>
+
+<p>Sebastian, Rizza Jane A.</p>
+
+<p>Purok 1 Guisang ,Magsaysay, Bayombong Nueva Vizcaya</p>
+
+<p>+63 9700225115</p>
+
+<p>sebastianrizzajane309\@gmail.com</p>
+
+</center>
+
+<hr>
+
+<p><b> Personal Information</b></p>
+
+<p>Sex: Female</p>
+
+<p>Age: 20</p>
+
+<p>Date of Birth: March 9, 2004</p>
+
+<p>Place of Birth: Bayombong Nueva Vizcaya</p>
+
+<p>Civil Status: Single</p>
+
+<p>Citizenship: Filipino</p>
+
+<p>Religion: Iglesia ni Cristo</p>
+
+<p>Weight: 48</p>
+
+<p>Height: 150 cm</p>
+
+<p>Father's Name: Johnny D. Sebastian</p>
+
+<p>Mother's Name: Cristina A. Sebastian</p>
+
+<hr>
+
+<p><b>Educational Background</b></p>
+
+<p><b>Thirtiary: </b>Nueva Vizcaya State University, Don Mariano Perez, Bayombong, Nueva Vizcaya --- 2021 - Present</p>
+
+<p><b>Secondary:</b> Nueva Vizcaya General Comprehensive High School --- 2016-2021</p>
+
+<p><b>Primary:</b>Bayombong Central School Sped Center --- 2010-2016</p>
