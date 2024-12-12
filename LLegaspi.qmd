@@ -57,7 +57,7 @@ editor:
 
 <p><b>Educational Background</b></p>
 
-<p><b>Thirtiary: </b>Nueva Vizcaya State University, Bayombong Campus, Bachelor of Science in Mathematics --- 2021-present</p>
+<p><b>Tertiary: </b>Nueva Vizcaya State University, Bayombong Campus, Bachelor of Science in Mathematics --- 2021-present</p>
 
 <p><b>Secondary:</b> Dupax Del Sur National High School, majored in Accountancy and Business Management (ABM) --- 2014-2021</p>
 
