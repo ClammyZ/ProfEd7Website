@@ -23,7 +23,7 @@ editor:
 
 <p>+63 9306745564</p>
 
-<p>din07bumilao\@gmail.com</p>
+<p>din07bumilao@gmail.com</p>
 
 </center>
 
@@ -59,6 +59,6 @@ editor:
 
 <p><b>Tertiary: </b>Nueva Viscaya State University --- 2019-present</p>
 
-<p><b>Secondary:</b>Maddela Comprehensive High Schoo --- SY 2013- 2019</p>
+<p><b>Secondary:</b>Maddela Comprehensive High School --- SY 2013- 2019</p>
 
 <p><b>Primary:</b>Kaboa-an Elementary School --- SY 2006 - 2013</p>
