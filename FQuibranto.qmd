@@ -9,6 +9,8 @@ editor:
 
 <hr>
 
+![](img/FQ.jpg){fig-align="center" width="2in" height="2in"}
+
 </center>
 
 <hr>
@@ -21,7 +23,7 @@ editor:
 
 <p>+63 9659513881</p>
 
-<p>fredzquibranto@gmail.com</p>
+<p>fredzquibranto\@gmail.com</p>
 
 </center>
 
@@ -55,8 +57,11 @@ editor:
 
 <p><b>Educational Background</b></p>
 
-<p><b>Tertiary: </b> Nueva Vizcaya State University Don Mariano Perez, Bayombong, Nueva Vizcaya --- 2022 - Present</p>
+<p><b>Tertiary: </b> Nueva Vizcaya State University Don Mariano Perez,
+Bayombong, Nueva Vizcaya --- 2022 - Present</p>
 
-<p><b>Secondary:</b>Runruno National High School, Runruno, Quezon, Nueva vizcaya --- 2011-2017</p>
+<p><b>Secondary:</b>Runruno National High School, Runruno, Quezon, Nueva
+vizcaya --- 2011-2017</p>
 
-<p><b>Primary:</b>Dumaliguia Elemetary School, Dumaliguia, Runruno, Quezon, Nueva Vizcaya --- 2006-2011</p>
+<p><b>Primary:</b>Dumaliguia Elemetary School, Dumaliguia, Runruno,
+Quezon, Nueva Vizcaya --- 2006-2011</p>
